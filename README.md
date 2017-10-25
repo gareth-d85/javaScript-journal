@@ -10,7 +10,7 @@ note to self - use comments in the JavaScript.
 
 1. Varaiables. (confidence level 7)
    
-   You Var, let and more as I come across them
+   Var, let and more as I come across them
 
 2. Functions. (confidence level 4)
 
