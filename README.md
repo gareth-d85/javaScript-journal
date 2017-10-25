@@ -6,8 +6,6 @@ I am going to have a path to follow and it will start with varables then I will 
 
 note to self - use comments in the JavaScript.
 
----
-
 ## My JavaScript path
 
 1. Varaiables. (confidence level 7)
