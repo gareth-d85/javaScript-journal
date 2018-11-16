@@ -1,7 +1,7 @@
 console.log("test"); //to test if I have linked to the html file.
 
-var firstName;
-var lastName;
+let firstName;
+let lastName;
 
 firstName = "Gareth";
 lastName = "Davies";
