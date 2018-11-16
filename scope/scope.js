@@ -1,5 +1,5 @@
-var globalScope = true;   // variables declared outside a function are global and can be
-var firstName = "Gareth";	// accessed inside a function (global scope)
+let globalScope = true;   // variables declared outside a function are global and can be
+let firstName = "Gareth";	// accessed inside a function (global scope)
 
 
 function local () {
